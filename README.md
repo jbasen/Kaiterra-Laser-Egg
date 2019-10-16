@@ -1,6 +1,6 @@
 # Kaiterra-Laser-Egg
 
-Kaiterra Laser Egg v1.1 Crestron Integration Module
+Kaiterra Laser Egg v1.2 Crestron Integration Module
 
 This module is designed to collect data from a Kaiterra Laser Egg indoor air quality monitor.  It has been tested with the Laser Egg+ Chemical monitor and the Laser Egg+ CO2 monitor.
 
@@ -13,5 +13,4 @@ Finally you need to obtain a developer key.  In the upper right corner of the da
 It should also be noted that Kaiterra provides a link on this developer page to their API documentation.
 
 Once initialized the module will request new data from the Kaiterra IAQ monitor every 30 minutes.
-
 
